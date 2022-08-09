@@ -1,10 +1,11 @@
-compsci student
+compsci student & part time developer
 
-**tech i use/know:**
-- typescript/js (full-stack, nestjs, nextjs/react)
+**tech i use:**
+- typescript/js (full-stack, nestjs, nextjs/react, vue3)
 - pwsh
-- java (currently learning, spring framework)
+- java (spring boot, jpa/hibernate, querydsl)
+- databases (postgres)
 - kubernetes, docker
 - github actions for CI/CD
 
-fullstack-ish/devops 
+fullstack-ish/devops (potato)
