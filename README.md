@@ -6,6 +6,7 @@ compsci student & part time developer
 - java (spring boot, jpa/hibernate, querydsl)
 - databases (postgres)
 - kubernetes, docker
+- IaC (pulumi)
 - github actions for CI/CD
 
 fullstack-ish/devops (potato)
